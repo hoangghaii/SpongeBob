@@ -1,0 +1,16 @@
+{
+    "name": "SpongeBob Token",
+    "description": "Introducing the future of Cuteness. A SpongeBob Token. Floating in Space. Save them by getting this NFT. Cuddle each one of them. You need them. Buy them now",
+    "image": "https://github.com/hoangghaii/SpongeBob/blob/master/pic_3.png",
+    "external_url": "https://github.com/hoangghaii/SpongeBob",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "SpongeBob"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
